@@ -210,9 +210,6 @@ area {
   /*left: 40px*/;
   left: 2vw;
 }
-/*.btnpage:hover{
-  background-color: #ddd;
-}*/
 
 progress {
   /*width: 846px;*/
@@ -486,14 +483,14 @@ input[type=number] {
   position: absolute;
   /*min-width: 130px;
   left: 85px;*/
-  width: 6.8vw;
-  left: 4.4vw;
+  width: 7.3vw;
+  left: 4vw;
   text-align: start;
 }
 .cart-baht, .cart-item-price {
   position: relative;
   /*left: 90px;*/
-  left: 4.7vw;
+  left: 5.2vw;
 }
 .delete-cart {
   position: relative;
